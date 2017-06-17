@@ -19,18 +19,26 @@
  ##组件
  
    组件化开发，把许多重复的代码封装成组件，可以是一个css样式 也可以是一个动画、功能，调用的时候直接以标签的方式迁入非常的方便
- 
- 
+    - [x] 商品列表组件   
+    - [x] 店铺评价组件
+    - [x] 商家介绍组件
+    - [x] 优惠活动组件
+    - [x] 商品详情组件
+    - [x] 购物车   
+    - [x] 购买物品小球飞入动画的封装
+    - [x] 评价star组件
+    - [x] 商品添加、删除组件
+    - [x] 图标组件
  ##项目结构
  <pre>
   ├── build              // 构建服务和webpack配置
   ├── config             // 项目不同环境的配置
   ├── dist               // 项目build目录
-  ├── index.html         // 项目入口文件
+  ├── index.html         // 项目依赖的html文件 所有的组件都将在index.html上面展示
   ├── package.json       // 项目依赖配置文件
   ├── src                // 生产目录
-  │   ├── common          // 公共的css js 资源
+  │   ├── common         // 公共的css js 
   │   ├── components     // 各种组件
-  │   ├── App.vue         // 主页面 
-  │   └── main.js        // Webpack 预编译入口
+  │   ├── App.vue        // 所有的组件的祖先级  components里面的组件都是相对于App.vue的子组件
+  │   └── main.js        // 可以说是项目的入口文件 里面引入了vue的ajax请求方法、路由方法
 </pre> 
