@@ -22,7 +22,7 @@
  
  
  ##项目结构
-  
+ <pre>
   ├── build              // 构建服务和webpack配置
   ├── config             // 项目不同环境的配置
   ├── dist               // 项目build目录
@@ -33,4 +33,4 @@
   │   ├── components     // 各种组件
   │   ├── App.vue         // 主页面 
   │   └── main.js        // Webpack 预编译入口
- 
+</pre> 
