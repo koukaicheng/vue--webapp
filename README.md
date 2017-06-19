@@ -16,7 +16,7 @@
  * stylus编写样式 感觉比sass好用
  * 使用better-scroll进行目录、列表联动滚动、滑动
  * .....
- ##组件
+ ## 组件
  
    组件化开发，把许多重复的代码封装成组件，可以是一个css样式 也可以是一个动画、功能，调用的时候直接以标签的方式迁入非常的方便
     - [x] 商品列表组件   
@@ -29,7 +29,7 @@
     - [x] 评价star组件
     - [x] 商品添加、删除组件
     - [x] 图标组件
- ##项目结构
+ ## 项目结构
  <pre>
   ├── build              // 构建服务和webpack配置
   ├── config             // 项目不同环境的配置
@@ -43,15 +43,15 @@
   │   └── main.js        // 可以说是项目的入口文件 里面引入了vue的ajax请求方法、路由方法
 </pre> 
 
-##项目安装步骤
+## 项目安装步骤
   
-   本项目需要配置node才能运行，如果没有安装node请浏览[配置node环境](http://blog.csdn.net/pengpegv5yaya/article/details/51885829)
+  本项目需要配置node才能运行，如果没有安装node请浏览[配置node环境](http://blog.csdn.net/pengpegv5yaya/article/details/51885829)
   
-   需要安装webpack 打开命令输入 npm install -g webpack 安装到全局
+  需要安装webpack 打开命令输入 npm install -g webpack 安装到全局
   
-   需要安装vue本身的脚手架构建工具  输入命令 $ npm install --global vue-cli 安装到全局
+  需要安装vue本身的脚手架构建工具  输入命令 $ npm install --global vue-cli 安装到全局
    
-   下载该项目可以直接下载 也可在本地克隆  打开git bash here输入命令 git clone https://github.com/koukaicheng/vue--webapp.git
+  下载该项目可以直接下载 也可在本地克隆  打开git bash here输入命令 git clone https://github.com/koukaicheng/vue--webapp.git
    
    
 
