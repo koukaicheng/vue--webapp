@@ -42,3 +42,9 @@
   │   ├── App.vue        // 所有的组件的祖先级  components里面的组件都是相对于App.vue的子组件
   │   └── main.js        // 可以说是项目的入口文件 里面引入了vue的ajax请求方法、路由方法
 </pre> 
+
+##项目安装步骤
+  
+  本项目需要配置node才能运行，如果没有安装node请浏览[配置node环境](http://blog.csdn.net/pengpegv5yaya/article/details/51885829)
+
+
