@@ -56,8 +56,8 @@
 * 运行项目 npm run dev  提示成功之后 打开http://localhost:8080/
 * 打包项目 npm run build 完毕之后打开dist文件夹 如果要运行dist文件夹里面打包完的文件的话 需要运行server.js  输入命令 node server.js 打开         http://localhost:9000
 
-  ## 项目截图
+ ## 项目截图
   
-  <img src="images/goods.img" width="40%"/>;
+  <img src="https://github.com/koukaicheng/vue--webapp/blob/master/images/goods.jpg" width="40%"/>;
 
 
