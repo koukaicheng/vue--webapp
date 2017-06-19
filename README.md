@@ -58,6 +58,6 @@
 
  ## 项目截图
   
-  <img src="https://github.com/koukaicheng/vue--webapp/blob/master/images/goods.jpg" width="40%"/>;
+  <img src="https://github.com/koukaicheng/vue--webapp/blob/master/images/goods.jpg" width="20%"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/koukaicheng/vue--webapp/blob/master/images/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.jpg" width="20%"/>
 
 
