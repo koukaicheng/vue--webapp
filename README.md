@@ -45,19 +45,19 @@
 
 ## 项目安装步骤
   
-  本项目需要配置node才能运行，如果没有安装node请浏览[配置node环境](http://blog.csdn.net/pengpegv5yaya/article/details/51885829)
+  * 本项目需要配置node才能运行，如果没有安装node请浏览[配置node环境](http://blog.csdn.net/pengpegv5yaya/article/details/51885829)
   
-  需要安装webpack 打开命令输入 npm install -g webpack 安装到全局
+  * 需要安装webpack 打开命令输入 npm install -g webpack 安装到全局
   
-  需要安装vue本身的脚手架构建工具  输入命令  npm install --global vue-cli 安装到全局
+  * 需要安装vue本身的脚手架构建工具  输入命令  npm install --global vue-cli 安装到全局
    
-  下载该项目可以直接下载 也可在本地克隆  打开git bash here输入命令 git clone https://github.com/koukaicheng/vue--webapp.git
+  * 下载该项目可以直接下载 也可在本地克隆  打开git bash here输入命令 git clone https://github.com/koukaicheng/vue--webapp.git
    
-  项目到本地之后安装相关依赖 npm install 
+  * 项目到本地之后安装相关依赖 npm install 
   
-  运行项目 npm run dev  提示成功之后 打开http://localhost:8080/
+  * 运行项目 npm run dev  提示成功之后 打开http://localhost:8080/
 
-  打包项目 npm run build 完毕之后打开dist文件夹 如果要运行dist文件夹里面打包完的文件的话 需要运行server.js  输入命令 node server.js 打开         http://localhost:9000
+  * 打包项目 npm run build 完毕之后打开dist文件夹 如果要运行dist文件夹里面打包完的文件的话 需要运行server.js  输入命令 node server.js 打开         http://localhost:9000
 
   
 
